@@ -1,16 +1,18 @@
 {
-  "description": "A WePY project",
-  "setting": {
-    "urlCheck": true,
-    "es6": false,
-    "postcss": false,
-    "minified": false,
-    "newFeature": true
-  },
-  "compileType": "miniprogram",
-  "appid": "wx2a55e45d76a00cf0",
-  "projectname": "work_junting",
-  "miniprogramRoot": "./dist",
-  "libVersion": "2.2.2",
-  "condition": {}
+    "description": "A WePY project",
+    "setting": {
+        "urlCheck": true,
+        "es6": false,
+        "postcss": false,
+        "minified": false,
+        "newFeature": true
+    },
+    "compileType": "miniprogram",
+    "appid": "wx16e98b69c28df672",
+    "projectname": "work_hunting",
+    "miniprogramRoot": "dist/",
+    "libVersion": "2.2.2",
+    "simulatorType": "wechat",
+    "simulatorPluginLibVersion": {},
+    "condition": {}
 }
