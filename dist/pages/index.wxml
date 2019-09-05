@@ -61,7 +61,7 @@
             <cover-view>让找工作/简历的人更放心</cover-view>
           </cover-view>
           <cover-view class="liAuth" bindtap="goAuth">立即认证</cover-view>
-          <cover-view class="awaitAuth" bindtap="close">稍后去我的-我的认证提交认证</cover-view>
+          <cover-view class="awaitAuth" bindtap="close">稍后认证(我的->我的认证)</cover-view>
         </cover-view>
       </cover-view>
      </map>
