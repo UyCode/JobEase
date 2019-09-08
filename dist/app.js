@@ -81,7 +81,24 @@ var _default = function(e) {
         _classCallCheck(this, t);
         var e = _possibleConstructorReturn(this, (t.__proto__ || Object.getPrototypeOf(t)).call(this));
         return e.config = {
-            pages: ["pages/index", "pages/resumeDetail", "pages/postResume", "pages/about", "pages/postjob", "pages/report", "pages/jobDetail", "pages/listPage", "pages/realAuthentication", "pages/release", "pages/chooseCity", "pages/projectType", "pages/my-release", "pages/verificationCode", "pages/register", "pages/personal"],
+            pages: [
+                "pages/index",
+                "pages/resumeDetail",
+                "pages/postResume",
+                "pages/about",
+                "pages/postjob",
+                "pages/report",
+                "pages/jobDetail",
+                "pages/listPage",
+                "pages/realAuthentication",
+                "pages/release",
+                "pages/chooseCity",
+                "pages/projectType",
+                "pages/my-release",
+                "pages/verificationCode",
+                "pages/register",
+                "pages/personal"
+            ],
             window: {
                 backgroundTextStyle: "light",
                 navigationBarBackgroundColor: "#fff",

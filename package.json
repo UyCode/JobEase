@@ -14,7 +14,7 @@
     "module-a": false,
     "./src/components/list": "./src/components/wepy-list.wpy"
   },
-  "author": "Charlton <857111066@qq.com>",
+  "author": "Ehmetjan <1220187759@qq.com>",
   "license": "MIT",
   "dependencies": {
     "crypto-js": "^3.1.9-1",
